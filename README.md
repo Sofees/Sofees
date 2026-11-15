@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 💻 Languages & Technologies
+### 💻 Working with:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" title="C" width="45"/>
